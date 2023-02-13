@@ -20,7 +20,7 @@ Link to deployed application: https://jacksbooksearchengine.herokuapp.com/
 
 ## Screenshot:
 
-![Project Screenshot](/booksearchengine/img/Screenshot.jpg "Book Search Engine")
+![Project Screenshot](/img/Screenshot.jpg "Book Search Engine")
 
 ## Technology:
 
